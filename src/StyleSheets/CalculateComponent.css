@@ -1,0 +1,22 @@
+body {
+    background-color: #1e1e2f;
+  }
+  
+  .form-wrapper {
+    background-color: #2a2a3d;
+    border: 1px solid #3f3f5a;
+    border-radius: 12px;
+    padding: 2rem;
+    max-width: 600px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  }
+  .calc-wrapper {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #cccccc;
+    border-radius: 12px;
+    padding: 2rem;
+    max-width: 700px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+    
