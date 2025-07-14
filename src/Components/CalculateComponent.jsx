@@ -253,10 +253,10 @@ function CalculateComponent() {
       )}
       {show && (
         <div className="container py-5">
-          <div className="calc-wrapper mx-auto">
-            <div>
-              <i class="bi bi-download" onClick={()=>generatePDF()}></i>
-            </div>
+          <div className="calc-wrapper mx-auto"style={{ position: "relative" }}>
+             <div className="top-right-icon">
+                <i className="bi bi-download" onClick={() => generatePDF()}></i>
+              </div>
             <div id="calc-summary">
               <h4 className="mb-4">Calculation Summary</h4>
               <h4 className="mb-4">{formData.name}</h4>
