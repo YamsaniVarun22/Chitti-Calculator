@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.531a9702.css",
-    "main.js": "/static/js/main.6fbec719.js",
-    "static/js/977.ce92a032.chunk.js": "/static/js/977.ce92a032.chunk.js",
-    "static/js/455.706e7c58.chunk.js": "/static/js/455.706e7c58.chunk.js",
-    "static/js/453.68d90b48.chunk.js": "/static/js/453.68d90b48.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "index.html": "/index.html",
-    "main.531a9702.css.map": "/static/css/main.531a9702.css.map",
-    "main.6fbec719.js.map": "/static/js/main.6fbec719.js.map",
-    "977.ce92a032.chunk.js.map": "/static/js/977.ce92a032.chunk.js.map",
-    "455.706e7c58.chunk.js.map": "/static/js/455.706e7c58.chunk.js.map",
-    "453.68d90b48.chunk.js.map": "/static/js/453.68d90b48.chunk.js.map"
+    "main.css": "/Chitti-Calculator/static/css/main.53507f52.css",
+    "main.js": "/Chitti-Calculator/static/js/main.ad43599d.js",
+    "static/js/977.ce92a032.chunk.js": "/Chitti-Calculator/static/js/977.ce92a032.chunk.js",
+    "static/js/455.706e7c58.chunk.js": "/Chitti-Calculator/static/js/455.706e7c58.chunk.js",
+    "static/js/453.68d90b48.chunk.js": "/Chitti-Calculator/static/js/453.68d90b48.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Chitti-Calculator/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/Chitti-Calculator/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/Chitti-Calculator/index.html",
+    "main.53507f52.css.map": "/Chitti-Calculator/static/css/main.53507f52.css.map",
+    "main.ad43599d.js.map": "/Chitti-Calculator/static/js/main.ad43599d.js.map",
+    "977.ce92a032.chunk.js.map": "/Chitti-Calculator/static/js/977.ce92a032.chunk.js.map",
+    "455.706e7c58.chunk.js.map": "/Chitti-Calculator/static/js/455.706e7c58.chunk.js.map",
+    "453.68d90b48.chunk.js.map": "/Chitti-Calculator/static/js/453.68d90b48.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.531a9702.css",
-    "static/js/main.6fbec719.js"
+    "static/css/main.53507f52.css",
+    "static/js/main.ad43599d.js"
   ]
 }
